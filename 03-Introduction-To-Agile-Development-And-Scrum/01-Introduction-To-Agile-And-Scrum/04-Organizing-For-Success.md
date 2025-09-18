@@ -1,6 +1,6 @@
 # 📘 Rezumat Detaliat – Agile (Video)
 
-## 1. Organizational Impact of Agile – 5 min
+## 1. Organizational Impact of Agile 
 - **Agile schimbă modul în care organizațiile iau decizii**:
   - Autonomia echipelor crește → deciziile se iau **local, la nivelul echipei**, nu doar de management.
   - Elimină blocajele (bottlenecks) produse de aprobările de sus.
@@ -15,7 +15,7 @@
 
 ---
 
-## 2. Mistaking Iterative Development for Agile – 3 min
+## 2. Mistaking Iterative Development for Agile 
 - **Iterativ ≠ Agile**:
   - Dezvoltarea iterativă înseamnă doar împărțirea proiectului în pași sau cicluri repetate.
   - Agile include și **valori și principii** (colaborare, adaptare, feedback continuu).
