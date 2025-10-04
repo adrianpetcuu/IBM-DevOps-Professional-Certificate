@@ -162,6 +162,7 @@ fi
 
 ---
 
+
 ## 🔹 Rezumat
 - **Funcții** și **parametri** → modularitate.  
 - **Expresii condiționale** → verificări complexe.  
