@@ -2,7 +2,5 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/08-Developing-AI-Applications-With-Python-And-Flask/02-Web-App-Deployment-Using-Flask/03-Deploying-Web-Flask-App/hjbsk-build_deploy_app_flask" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/08-Developing-AI-Applications-With-Python-And-Flask/02-Web-App-Deployment-Using-Flask/04-Additional-Features-In-Flask/obmnl-flask_assignment" vcs="Git" />
   </component>
 </project>
