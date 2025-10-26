@@ -1,0 +1,34 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: Final-Exams
+  labels:
+    app: Final-Exams
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: Final-Exams
+  strategy:
+    rollingUpdate:
+      maxSurge: 25%
+      maxUnavailable: 25%
+    type: RollingUpdate
+  template:
+    metadata:
+      labels:
+        app: Final-Exams
+    spec:
+      containers:
+      - image: us.icr.io/<your sn labs namespace>/Final-Exams:v1
+        imagePullPolicy: Always
+        name: Final-Exams
+        ports:
+        - containerPort: 3000
+          name: http
+        resources:
+          limits:
+            cpu: 50m
+          requests:
+            cpu: 20m  
+  replicas: 1
