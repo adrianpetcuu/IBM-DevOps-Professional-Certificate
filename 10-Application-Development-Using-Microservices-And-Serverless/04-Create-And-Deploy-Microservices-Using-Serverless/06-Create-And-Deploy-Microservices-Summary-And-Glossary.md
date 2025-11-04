@@ -61,3 +61,4 @@ Această arhitectură oferă **scalabilitate**, **reziliență** și **ușurinț
 ## 💡 Concluzie
 După parcurgerea acestui modul, ai învățat cum să construiești, implementezi și rulezi microservicii folosind **IBM Cloud Code Engine**.  
 Dezvoltatorii pot beneficia de **automatizare completă**, **scalare dinamică**, **eficiență în costuri** și **implementări rapide**, fără a se ocupa direct de gestionarea infrastructurii.
+  
